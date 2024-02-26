@@ -45,9 +45,11 @@ Incorporates natural language processing techniques for text classification.<br>
 ![](IMG_20240226_143247.jpg)
 ![](IMG_20240226_143303.jpg)
 #### result obtained<br>
-![](Screenshot_2024-02-11-09-40-13-52_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
+![](IMG_20240226_143417.jpg)
 ### Dataset Used<br>
-The project uses WA_Fn-UseC_-Telco-Customer-Churn.csv for analysis. The dataset contains customer data such as CustomerID, Gender, Senior citizen, partner, dependent, tenure, phone service, Multiplelines, internet service, online security, online backup, Device protection, Tech support, streaming Tv, streaminovies, contract, paperless, payment method, monthly charges, total charges, churn.<br>
+The project utilizes the SPAM text message dataset for analysis. The dataset contains Category and Message..<br>
 ### Result Obtained<br>
-After training the model, the project achieved an accuracy of 76% on the test dataset.<br>
+After training the logistic regression model, the project achieved an accuracy of 95% in classifying messages as either spam or ham.
+
+Feel free to customize the content and formatting as needed for your GitHub readme documentation. Let me know if you need further assistance!.<br>
 <br>
