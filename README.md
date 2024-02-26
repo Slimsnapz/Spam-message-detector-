@@ -42,7 +42,7 @@ Incorporates natural language processing techniques for text classification.<br>
 ![](IMG_20240226_143232.jpg)
 
 #### Code snippet<br>
-![](Screenshot_2024-02-11-08-58-06-71_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
+![](IMG_20240226_143247.jpg)
 ![](Screenshot_2024-02-11-08-57-56-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
 #### feature importance 
 ![](IMG_20240211_091136.jpg)
