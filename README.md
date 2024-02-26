@@ -38,3 +38,20 @@ Incorporates natural language processing techniques for text classification.<br>
 .<br>
 ### Project Images<br>
 #### Charts
+![](IMG_20240211_084109.jpg)
+![](IMG_20240211_084234.jpg)
+![](IMG_20240211_084327.jpg)
+![](IMG_20240211_084417.jpg)
+
+#### Code snippet<br>
+![](Screenshot_2024-02-11-08-58-06-71_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
+![](Screenshot_2024-02-11-08-57-56-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
+#### feature importance 
+![](IMG_20240211_091136.jpg)
+#### result obtained<br>
+![](Screenshot_2024-02-11-09-40-13-52_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
+### Dataset Used<br>
+The project uses WA_Fn-UseC_-Telco-Customer-Churn.csv for analysis. The dataset contains customer data such as CustomerID, Gender, Senior citizen, partner, dependent, tenure, phone service, Multiplelines, internet service, online security, online backup, Device protection, Tech support, streaming Tv, streaminovies, contract, paperless, payment method, monthly charges, total charges, churn.<br>
+### Result Obtained<br>
+After training the model, the project achieved an accuracy of 76% on the test dataset.<br>
+<br>
