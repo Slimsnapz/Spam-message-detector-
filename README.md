@@ -49,7 +49,7 @@ Incorporates natural language processing techniques for text classification.<br>
 ### Dataset Used<br>
 The project utilizes the SPAM text message dataset for analysis. The dataset contains Category and Message..<br>
 ### Result Obtained<br>
-After training the logistic regression model, the project achieved an accuracy of 95% in classifying messages as either spam or ham.
+After training the logistic regression model, the project achieved an accuracy of 96% in classifying messages as either spam or ham.
 
 Feel free to customize the content and formatting as needed for your GitHub readme documentation. Let me know if you need further assistance!.<br>
 <br>
