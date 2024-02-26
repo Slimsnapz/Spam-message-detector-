@@ -43,9 +43,7 @@ Incorporates natural language processing techniques for text classification.<br>
 
 #### Code snippet<br>
 ![](IMG_20240226_143247.jpg)
-![](Screenshot_2024-02-11-08-57-56-43_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
-#### feature importance 
-![](IMG_20240211_091136.jpg)
+![](IMG_20240226_143303.jpg)
 #### result obtained<br>
 ![](Screenshot_2024-02-11-09-40-13-52_e2d5b3f32b79de1d45acd1fad96fbb0f.jpg)
 ### Dataset Used<br>
